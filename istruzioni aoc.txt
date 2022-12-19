@@ -1,0 +1,6 @@
+la sabbia cade sempre da (500,0). i dati nel file sono codificati
+come segue:
+
+(a,b) -> (c,d)
+
+è un segmento dalla riga b colonna a alla riga d colonna c.
